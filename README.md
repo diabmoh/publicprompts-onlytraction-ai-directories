@@ -2,7 +2,7 @@
 
 > A curated list of 35+ AI Tool Directories for getting your product seen.
 
-I'm publishing this list to help market my own SaaS — **[OnlyTraction](https://onlytraction.com)** — a tool that auto-submits your startup to hundreds of directories so you don't have to fill out the same form 50 times. The full database has **1000+ directories** (most are free to list on); the curated subset below is what I'd recommend starting with.
+I'm publishing this list to help market my own SaaS — **[OnlyTraction](https://onlytraction.com)** — a tool that auto-submits your startup so you don't have to fill out the same form 50 times. The full database has **1000+ directories** (most are free to list on); the curated subset below is what I'd recommend starting with.
 
 If you find this useful, a ⭐ helps others discover it.
 
